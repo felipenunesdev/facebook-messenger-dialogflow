@@ -4,7 +4,7 @@
   "description": "Dialogflow integration to Facebook Messenger",
   "author": "Felipe Nunes",
   "private": false,
-  "license": "MIT License",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/felipenunesdev/facebook-messenger-dialogflow.git"
