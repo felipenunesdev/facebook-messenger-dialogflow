@@ -1,10 +1,19 @@
 {
   "name": "facebook-messenger-dialogflow",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "description": "Dialogflow integration to Facebook Messenger",
+  "author": "Felipe Nunes",
+  "private": false,
+  "license": "MIT License",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felipenunesdev/facebook-messenger-dialogflow.git"
+  },
+  "keywords": ["chatbot", "dialogflow", "facebook", "messenger"],
+  "bugs": {
+    "url": "https://github.com/felipenunesdev/facebook-messenger-dialogflow/issues"
+  },
+  "homepage": "https://github.com/felipenunesdev/facebook-messenger-dialogflow",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
